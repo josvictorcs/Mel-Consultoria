@@ -1,0 +1,1 @@
+ /home/victor-cassiano/Documentos/GitHub/Mel-Consultoria/.dart_tool/flutter_build/d5cdfc3a8284ae93eaf8b6522f0ca923/native_assets.yaml: 

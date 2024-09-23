@@ -1,0 +1,4 @@
+#Fri Sep 20 21:12:48 BRT 2024
+base.0=/home/victor-cassiano/Área de trabalho/mel_consultoria/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
